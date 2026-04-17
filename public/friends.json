@@ -5,7 +5,7 @@
     "picture": "https://randomuser.me/api/portraits/men/20.jpg",
     "email": "arif.dev@example.com",
     "days_since_contact": 4,
-    "status": "on-track",
+    "status": "on_track",
     "tags": [
       "web dev",
       "colleague"
@@ -20,7 +20,7 @@
     "picture": "https://randomuser.me/api/portraits/women/21.jpg",
     "email": "mehzabin.a@example.com",
     "days_since_contact": 12,
-    "status": "almost due",
+    "status": "almost_due",
     "tags": [
       "university",
       "study buddy"
@@ -50,7 +50,7 @@
     "picture": "https://randomuser.me/api/portraits/women/23.jpg",
     "email": "sadia.uiux@example.com",
     "days_since_contact": 25,
-    "status": "on-track",
+    "status": "on_track",
     "tags": [
       "design",
       "freelance"
@@ -65,7 +65,7 @@
     "picture": "https://randomuser.me/api/portraits/men/24.jpg",
     "email": "kamran.aqua@example.com",
     "days_since_contact": 28,
-    "status": "almost due",
+    "status": "almost_due",
     "tags": [
       "aquarium",
       "hobby"
@@ -92,10 +92,10 @@
   {
     "id": 7,
     "name": "Nabila Chowdhury",
-    "picture": "https://randomuser.me/api/portraits/men/26.jpg",
+    "picture": "https://randomuser.me/api/portraits/women/26.jpg",
     "email": "nabila.c@example.com",
     "days_since_contact": 3,
-    "status": "on-track",
+    "status": "on_track",
     "tags": [
       "hackathon",
       "ai"
@@ -110,7 +110,7 @@
     "picture": "https://randomuser.me/api/portraits/men/27.jpg",
     "email": "tariq.pc@example.com",
     "days_since_contact": 1,
-    "status": "on-track",
+    "status": "on_track",
     "tags": [
       "hardware",
       "gaming"
@@ -140,7 +140,7 @@
     "picture": "https://randomuser.me/api/portraits/women/29.jpg",
     "email": "sumaiya.p@example.com",
     "days_since_contact": 32,
-    "status": "on-track",
+    "status": "on_track",
     "tags": [
       "event",
       "volunteer"
@@ -148,5 +148,305 @@
     "bio": "Worked together managing guest reception and food service during the UCICS 2026 conference.",
     "goal": 60,
     "next_due_date": "2026-05-15"
+  },
+  {
+    "id": 11,
+    "name": "Tanvir Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/30.jpg",
+    "email": "tanvir.db@example.com",
+    "days_since_contact": 10,
+    "status": "on_track",
+    "tags": [
+      "database",
+      "mongodb"
+    ],
+    "bio": "Helps me optimize MongoDB queries and structure databases for HypnotiXstudio projects.",
+    "goal": 30,
+    "next_due_date": "2026-05-07"
+  },
+  {
+    "id": 12,
+    "name": "Rafiqul Islam",
+    "picture": "https://randomuser.me/api/portraits/men/31.jpg",
+    "email": "rafiqul.firebase@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": [
+      "university",
+      "project"
+    ],
+    "bio": "Collaborating on the new Firebase administrative notification system architecture.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 13,
+    "name": "Shamima Nasrin",
+    "picture": "https://randomuser.me/api/portraits/women/32.jpg",
+    "email": "shamima.vectors@example.com",
+    "days_since_contact": 28,
+    "status": "almost_due",
+    "tags": [
+      "design",
+      "hypnotixstudio"
+    ],
+    "bio": "Freelance graphic designer who assists with vector assets and logos for client websites.",
+    "goal": 30,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 14,
+    "name": "Iqbal Mahmud",
+    "picture": "https://randomuser.me/api/portraits/men/33.jpg",
+    "email": "iqbal.tester@example.com",
+    "days_since_contact": 20,
+    "status": "on_track",
+    "tags": [
+      "app dev",
+      "csecrvu"
+    ],
+    "bio": "Crucial beta tester who helped debug the offline access features for the CSECRVU routine app.",
+    "goal": 60,
+    "next_due_date": "2026-05-27"
+  },
+  {
+    "id": 15,
+    "name": "Mahmudul Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/34.jpg",
+    "email": "mahmudul.vr@example.com",
+    "days_since_contact": 2,
+    "status": "on_track",
+    "tags": [
+      "gaming",
+      "vr"
+    ],
+    "bio": "Fellow VR enthusiast. We discuss integrating Machine Learning algorithms into virtual reality environments.",
+    "goal": 14,
+    "next_due_date": "2026-04-29"
+  },
+  {
+    "id": 16,
+    "name": "Nusrat Jahan",
+    "picture": "https://randomuser.me/api/portraits/women/35.jpg",
+    "email": "nusrat.logistics@example.com",
+    "days_since_contact": 6,
+    "status": "almost_due",
+    "tags": [
+      "work",
+      "craftly"
+    ],
+    "bio": "Coordinates daily branch logistics and operational duties with me at Craftly.",
+    "goal": 7,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 17,
+    "name": "Shahriar Rahman",
+    "picture": "https://randomuser.me/api/portraits/men/36.jpg",
+    "email": "shahriar.c@example.com",
+    "days_since_contact": 35,
+    "status": "overdue",
+    "tags": [
+      "c programming",
+      "github"
+    ],
+    "bio": "We review each other's utility calculators and logic tools in our C programming GitHub repositories.",
+    "goal": 30,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 18,
+    "name": "Anisur Rahman",
+    "picture": "https://randomuser.me/api/portraits/men/37.jpg",
+    "email": "anisur.glass@example.com",
+    "days_since_contact": 40,
+    "status": "on_track",
+    "tags": [
+      "aquarium",
+      "diy"
+    ],
+    "bio": "Gave me great advice on calculating glass thickness and assembly measurements for my planted tank.",
+    "goal": 60,
+    "next_due_date": "2026-05-07"
+  },
+  {
+    "id": 19,
+    "name": "Farjana Akter",
+    "picture": "https://randomuser.me/api/portraits/women/38.jpg",
+    "email": "farjana.java@example.com",
+    "days_since_contact": 80,
+    "status": "on_track",
+    "tags": [
+      "java",
+      "logicloom"
+    ],
+    "bio": "Provided feedback on the Java-based puzzle algorithms during the closed testing phase of LogicLoom.",
+    "goal": 90,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 20,
+    "name": "Hasan Mahmud",
+    "picture": "https://randomuser.me/api/portraits/men/39.jpg",
+    "email": "hasan.net@example.com",
+    "days_since_contact": 13,
+    "status": "almost_due",
+    "tags": [
+      "ftp",
+      "networking"
+    ],
+    "bio": "Networking geek helping me figure out the architecture for my wireless FTP file transfer application.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 21,
+    "name": "Imran Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/40.jpg",
+    "email": "imran.pedal@example.com",
+    "days_since_contact": 10,
+    "status": "overdue",
+    "tags": [
+      "cycling",
+      "fitness"
+    ],
+    "bio": "Joins me and Faisal for early morning cycling routes through the city.",
+    "goal": 7,
+    "next_due_date": "2026-04-14"
+  },
+  {
+    "id": 22,
+    "name": "Ayesha Siddiqua",
+    "picture": "https://randomuser.me/api/portraits/women/41.jpg",
+    "email": "ayesha.react@example.com",
+    "days_since_contact": 5,
+    "status": "on_track",
+    "tags": [
+      "react",
+      "frontend"
+    ],
+    "bio": "Always shares the latest React UI refactoring tricks. A great sounding board for complex web layouts.",
+    "goal": 30,
+    "next_due_date": "2026-05-12"
+  },
+  {
+    "id": 23,
+    "name": "Zahid Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/42.jpg",
+    "email": "zahid.builds@example.com",
+    "days_since_contact": 12,
+    "status": "almost_due",
+    "tags": [
+      "hardware",
+      "builds"
+    ],
+    "bio": "Planning to upgrade to an X870E motherboard soon; we frequently debate PC build specs for productivity.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 24,
+    "name": "Sajid Islam",
+    "picture": "https://randomuser.me/api/portraits/men/43.jpg",
+    "email": "sajid.cr@example.com",
+    "days_since_contact": 2,
+    "status": "on_track",
+    "tags": [
+      "university",
+      "varendra"
+    ],
+    "bio": "Class representative at Varendra University. Keeps me updated on schedule changes for CSECRVU.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 25,
+    "name": "Mominul Haque",
+    "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+    "email": "mominul.lead@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": [
+      "freelance",
+      "clients"
+    ],
+    "bio": "Refers full-stack web development clients to HypnotiXstudio when his own agency is overbooked.",
+    "goal": 30,
+    "next_due_date": "2026-04-02"
+  },
+  {
+    "id": 26,
+    "name": "Tanjila Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/45.jpg",
+    "email": "tanjila.decor@example.com",
+    "days_since_contact": 25,
+    "status": "on_track",
+    "tags": [
+      "event",
+      "ucics"
+    ],
+    "bio": "Co-volunteered at UCICS 2026. Handled the venue decoration while I managed the guest welcoming.",
+    "goal": 60,
+    "next_due_date": "2026-05-22"
+  },
+  {
+    "id": 27,
+    "name": "Rashedul Islam",
+    "picture": "https://randomuser.me/api/portraits/men/46.jpg",
+    "email": "rashedul.ml@example.com",
+    "days_since_contact": 13,
+    "status": "almost_due",
+    "tags": [
+      "ai",
+      "machine learning"
+    ],
+    "bio": "Working on a comprehensive AI learning roadmap together. We review deep learning research papers.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 28,
+    "name": "Salma Khatun",
+    "picture": "https://randomuser.me/api/portraits/women/47.jpg",
+    "email": "salma.ops@example.com",
+    "days_since_contact": 15,
+    "status": "on_track",
+    "tags": [
+      "craftly",
+      "operations"
+    ],
+    "bio": "Branch manager from another Craftly region. We regularly share management and operational strategies.",
+    "goal": 30,
+    "next_due_date": "2026-05-02"
+  },
+  {
+    "id": 29,
+    "name": "Kawsar Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/48.jpg",
+    "email": "kawsar.node@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": [
+      "node.js",
+      "backend"
+    ],
+    "bio": "Go-to person for troubleshooting complex Node.js backend logic and REST API structures.",
+    "goal": 14,
+    "next_due_date": "2026-04-11"
+  },
+  {
+    "id": 30,
+    "name": "Habibur Rahman",
+    "picture": "https://randomuser.me/api/portraits/men/49.jpg",
+    "email": "habibur.kt@example.com",
+    "days_since_contact": 10,
+    "status": "on_track",
+    "tags": [
+      "kotlin",
+      "android"
+    ],
+    "bio": "Helped me migrate some of my older Java utility apps to Kotlin within Android Studio.",
+    "goal": 90,
+    "next_due_date": "2026-07-06"
   }
 ]
