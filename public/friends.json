@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Arifur Rahman",
+    "picture": "https://randomuser.me/api/portraits/men/20.jpg",
+    "email": "arif.dev@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": [
+      "web dev",
+      "colleague"
+    ],
+    "bio": "Collaborated on several Next.js and Tailwind CSS freelance projects. Always has great UI ideas.",
+    "goal": 14,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 2,
+    "name": "Mehzabin Akter",
+    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "email": "mehzabin.a@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": [
+      "university",
+      "study buddy"
+    ],
+    "bio": "Fellow CSE student at Varendra University. We often share notes on Machine Learning algorithms.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 3,
+    "name": "Faisal Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/22.jpg",
+    "email": "faisal.rides@example.com",
+    "days_since_contact": 8,
+    "status": "overdue",
+    "tags": [
+      "cycling",
+      "weekend"
+    ],
+    "bio": "My main partner for long cycling trips around Rajshahi division.",
+    "goal": 7,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 4,
+    "name": "Sadia Islam",
+    "picture": "https://randomuser.me/api/portraits/women/23.jpg",
+    "email": "sadia.uiux@example.com",
+    "days_since_contact": 25,
+    "status": "on-track",
+    "tags": [
+      "design",
+      "freelance"
+    ],
+    "bio": "Brilliant graphic designer who helped refine the UI for the LogicLoom Android game.",
+    "goal": 30,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "name": "Kamran Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/24.jpg",
+    "email": "kamran.aqua@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": [
+      "aquarium",
+      "hobby"
+    ],
+    "bio": "Helps me source aquatic plants and proper lighting for my planted tank setup.",
+    "goal": 30,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 6,
+    "name": "Jubayer Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/25.jpg",
+    "email": "jubayer.droid@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": [
+      "android",
+      "mentor"
+    ],
+    "bio": "Senior Android developer who gives me advice on optimizing Firebase integrations.",
+    "goal": 30,
+    "next_due_date": "2026-04-02"
+  },
+  {
+    "id": 7,
+    "name": "Nabila Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/men/26.jpg",
+    "email": "nabila.c@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": [
+      "hackathon",
+      "ai"
+    ],
+    "bio": "Teammate from last year's AI innovation hackathon. Deep learning enthusiast.",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 8,
+    "name": "Tariqul Islam",
+    "picture": "https://randomuser.me/api/portraits/men/27.jpg",
+    "email": "tariq.pc@example.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": [
+      "hardware",
+      "gaming"
+    ],
+    "bio": "We spend hours discussing AMD Ryzen builds and the latest RTX graphics cards.",
+    "goal": 7,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 9,
+    "name": "Robiul Awal",
+    "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+    "email": "robiul.craftly@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": [
+      "work",
+      "management"
+    ],
+    "bio": "Operational contact. We frequently coordinate on administrative tasks and team goals.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 10,
+    "name": "Sumaiya Parveen",
+    "picture": "https://randomuser.me/api/portraits/women/29.jpg",
+    "email": "sumaiya.p@example.com",
+    "days_since_contact": 32,
+    "status": "on-track",
+    "tags": [
+      "event",
+      "volunteer"
+    ],
+    "bio": "Worked together managing guest reception and food service during the UCICS 2026 conference.",
+    "goal": 60,
+    "next_due_date": "2026-05-15"
+  }
+]
